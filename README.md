@@ -1,7 +1,7 @@
 # QueueSimulation
 
 ## Overview
-SimPyQueueSimulation is a Python project that uses the SimPy library to simulate a multi-queue system. It models the process of customers arriving at a system and being processed through different queues, each with its service rate. The simulation is aimed at providing insights into queueing theory and system performance by calculating various metrics such as average waiting time, server utilization, and customer throughput.
+QueueSimulation is a Python project that uses the SimPy library to simulate a multi-queue system. It models the process of customers arriving at a system and being processed through different queues, each with its service rate. The simulation is aimed at providing insights into queueing theory and system performance by calculating various metrics such as average waiting time, server utilization, and customer throughput.
 
 ## Features
 - Simulation of multiple queues with distinct service rates.
